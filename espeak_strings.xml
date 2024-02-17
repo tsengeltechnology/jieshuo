@@ -4,7 +4,7 @@
         Source: Activity title.
         Description: Title for the Settings activity.
     -->
-  <string name="tts_settings_label">espeak ярьдаг аппын тохиргоо</string>
+  <string name="tts_settings_label">espeak ярьдаг программын тохиргоо</string>
   <!--
         Source: Preference title.
         Description: Title for the preference that controls default voice pitch.
@@ -24,7 +24,7 @@
         Source: Dialog message.
         Description: Alert dialog prompting the user to set eSpeak as their default TTS engine.
     -->
-  <string name="set_default_message">espeak таны өгөгдмөл ярьдаг аппаар тохируулагдаагүй байна.</string>
+  <string name="set_default_message">espeak таны өгөгдмөл ярьдаг аппаар тохируулаагүй байна.</string>
   <!--
         Source: Dialog message.
         Description: Alert dialog telling the user that voice data installation failed.
